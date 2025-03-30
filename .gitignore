@@ -161,3 +161,4 @@ cython_debug/
 
 # ignore .env
 .env
+MAL_API.ipynb
